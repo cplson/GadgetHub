@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetHub.WebUI", "GadgetHub.WebUI\GadgetHub.WebUI.csproj", "{A929C30D-02A4-4E73-96F3-64146E0605A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetHub.Domain", "GadgetHub.Domain\GadgetHub.Domain.csproj", "{FCD96385-56C7-4AF6-8D32-3892109601BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A929C30D-02A4-4E73-96F3-64146E0605A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A929C30D-02A4-4E73-96F3-64146E0605A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A929C30D-02A4-4E73-96F3-64146E0605A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A929C30D-02A4-4E73-96F3-64146E0605A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD96385-56C7-4AF6-8D32-3892109601BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD96385-56C7-4AF6-8D32-3892109601BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD96385-56C7-4AF6-8D32-3892109601BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD96385-56C7-4AF6-8D32-3892109601BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7463221-B693-4B6B-8A58-17546A5873CE}
+	EndGlobalSection
+EndGlobal
