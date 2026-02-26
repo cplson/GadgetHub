@@ -1,5 +1,8 @@
+C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\GadgetHub.Domain.dll.config
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\GadgetHub.Domain.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\GadgetHub.Domain.pdb
+C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\EntityFramework.dll
+C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Helpers.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Mvc.dll
@@ -7,6 +10,8 @@ C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Ra
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.WebPages.dll
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\EntityFramework.xml
+C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Helpers.xml
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Mvc.xml
 C:\Users\jacjamg\source\repos\GadgetHub\GadgetHub.Domain\bin\Debug\System.Web.Razor.xml

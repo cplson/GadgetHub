@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\gadget\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GadgetController.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:34:50.187Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,35 +65,22 @@
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-20T21:25:17.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "EFGadgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T21:23:22.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GadgetController.cs",
-              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
-              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T21:14:49.42Z",
+              "WhenOpened": "2026-02-26T15:50:04.462Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +104,48 @@
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
               "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwGYAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T20:47:52.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFDbContext.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFDbContext.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFDbContext.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:32:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Web.config",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Web.config",
+              "RelativeToolTip": "GadgetHub.WebUI\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-26T16:46:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:23:22.411Z",
               "EditorCaption": ""
             }
           ]
