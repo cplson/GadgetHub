@@ -1,0 +1,27 @@
+﻿@model GadgetHub.Domain.Entities.Cart
+
+@*<div class="navbar-right">
+    @Html.ActionLink("Checkout", "Index", "Cart", 
+        new { returnUrl = Request.Url.PathAndQuery }, 
+        new { @class = "btn btn-default navbar-btn"})
+</div>
+
+<div class="navbar-text navbar-right">
+    <b>Your cart:</b>
+    @Model.Lines.Sum(x => x.Quantity) item(s),
+    @Model.ComputeTotalValue().ToString("c")
+</div>*@
+
+<div class="navbar-right" style="display:flex; flex-direction:column; align-items:flex-end; margin-right:10px;">
+
+    @Html.ActionLink("Checkout", "Index", "Cart",
+        new { returnUrl = Request.Url.PathAndQuery },
+        new { @class = "btn btn-default navbar-btn", style = "margin-bottom:2px;" })
+
+    <span class="navbar-text" style="margin:0;">
+        <b>Your cart:</b>
+        @Model.Lines.Sum(x => x.Quantity) item(s),
+        @Model.ComputeTotalValue().ToString("c")
+    </span>
+
+</div>
