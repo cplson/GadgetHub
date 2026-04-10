@@ -84,7 +84,6 @@ namespace GadgetHub.Domain.Concrete
                 {
                     mailMessage.BodyEncoding = Encoding.ASCII;
                 }
-                Console.WriteLine("Inside emailorderprocessor");
                 smtpClient.Send(mailMessage);
             }
         }
