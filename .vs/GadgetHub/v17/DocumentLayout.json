@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\igadgetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCD96385-56C7-4AF6-8D32-3892109601BB}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\jacjamg\\source\\repos\\gadgethub\\gadgethub.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A929C30D-02A4-4E73-96F3-64146E0605A9}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "EFGadgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T21:46:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGadgetsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetsRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IGadgetsRepository.cs",
+              "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetsRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Abstract\\IGadgetsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T21:49:37.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Completed.cshtml",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Completed.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Completed.cshtml",
@@ -73,33 +107,33 @@
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Gadget.cs",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Gadget.cs",
               "RelativeToolTip": "GadgetHub.Domain\\Entities\\Gadget.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T20:39:41.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-10T20:34:48.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-10T20:07:28.284Z",
               "EditorCaption": ""
@@ -112,27 +146,27 @@
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-10T20:04:41.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\AdminController.cs",
               "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwC4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T20:01:30.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
@@ -145,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ShippingDetails.cs",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\ShippingDetails.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\ShippingDetails.cs",
@@ -158,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CartModelBinder.cs",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
@@ -166,11 +200,12 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAD4vwMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T23:17:20.773Z"
+              "WhenOpened": "2026-03-13T23:17:20.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\jacjamg\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\CartController.cs",

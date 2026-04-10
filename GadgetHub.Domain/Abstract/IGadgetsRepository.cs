@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using GadgetHub.Domain.Entities;
 
 namespace GadgetHub.Domain.Abstract
@@ -11,5 +8,7 @@ namespace GadgetHub.Domain.Abstract
     {
         IEnumerable<Gadget> Gadgets { get; }
         void SaveGadget(Gadget gadget);
+
+        Gadget DeleteGadget(int Id);
     }
 }

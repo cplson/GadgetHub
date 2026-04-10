@@ -1,16 +1,29 @@
 ﻿@model GadgetHub.Domain.Entities.Gadget
 
+
 @{ 
-    ViewBag.Title = "Admin: Edit" + Model.Name;
+    var operationText = "";
+    if (ViewBag.operation == "create")
+    {
+        operationText = "Add New Product";
+    }
+    else
+    {
+        operationText = "Edit " + Model.Name;
+    }
+}
+
+@{ 
+        ViewBag.Title = "Admin: " + operationText;
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
 <div class="panel">
     <div class="panel-heading">
-        <h3>Edit @Model.Name</h3>
+        <h3>@operationText</h3>
     </div>
 
-    @using (Html.BeginForm())
+    @using (Html.BeginForm("Edit", "Admin"))
             {
                 <div class="panel-body">
                     @Html.HiddenFor(g => g.Id)
@@ -32,6 +45,7 @@
                         {
                             @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
                         }
+                            @Html.ValidationMessage(property.PropertyName)
                         </div>
                     }
                 }
